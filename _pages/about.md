@@ -8,7 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-I am now a second year Ph.D. student in [THUIR Lab](http://www.thuir.cn/), [Department of Computer Science and Technology](http://www.cs.tsinghua.edu.cn), Tsinghua University. My supervisors are Prof. Shaoping Ma and [Prof. Yiqun Liu](http://www.thuir.cn/group/~YQLiu/). My major research interests lie in neural IR.
+My name is Jingtao Zhan (詹靖涛, in Chinese). I am now a second year PhD student in [THUIR Lab](http://www.thuir.cn/), [Department of Computer Science and Technology](http://www.cs.tsinghua.edu.cn), Tsinghua University. My supervisors are Prof. Shaoping Ma and [Prof. Yiqun Liu](http://www.thuir.cn/group/~YQLiu/). 
+
+My research lies in Information Retrieval and Web Search. I currently focus on Dense Retrieval with a wide interest in improving its effectiveness, efficiency, and interpretability.
+
+I also served as a reviewer and PC member for WSDM2022.
 
 Education
 ======
@@ -19,8 +23,8 @@ Education
 Experiences
 ======
 
-* ***01.2022***,  Invited talk by Glasgow IR Group titled "Effective and Efficient Dense Retrieval via Joint Optimization with Compact Index". 
-* ***09.2018 - 04.2019***, Internship, Momenta, Beijing, China.
+* ***1.2022***, [Invited talk](https://samoa.dcs.gla.ac.uk/events/viewtalk.jsp?id=18021) by Glasgow IR Group titled "Effective and Efficient Dense Retrieval via Joint Optimization with Compact Index". 
+* ***9.2018 - 4.2019***, Internship, Momenta, Beijing, China.
 
 Publications
 ======
@@ -51,13 +55,16 @@ The 43rd International ACM SIGIR Conference on Research and Development in Infor
 
 * Leveraging Passage-level Cumulative Gain for Document Ranking. \
 Zhijing Wu, Jiaxin Mao, Yiqun Liu, ***Jingtao Zhan***, Yukun Zheng, Min Zhang and Shaoping Ma. \
-The Web Conference 2020. Full paper. **(WWW 2020)**. [paper](https://dl.acm.org/doi/abs/10.1145/3366423.3380305)
+The Web Conference 2020. **(WWW 2020)**. [paper](https://dl.acm.org/doi/abs/10.1145/3366423.3380305)
 
 
 Honors and Awards
 ======
+* 2021, Overall Excellence Scholarship (Second Prize), Tsinghua University. (Top 10%)
 * 2020, Outstanding Graduate of Beijing
-* 2020, Outstanding Graduate of Department of Electronic Engineering, Tsinghua University
+* 2020, Outstanding Graduate of Tsinghua University
+* 2019, National Encouragement Scholarship
+* 2017, National Encouragement Scholarship
 
 
 <script type="text/javascript" id="clustrmaps" src="//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=400&t=n&d=rKRJyQhwM1kaUwl3jJ-LhLdK9Jg0_oXcv2dUcR4gxqc"></script>
