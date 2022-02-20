@@ -22,7 +22,8 @@ Education
 
 Experiences
 ======
-
+* ***2.2022***, Our paper [Learning Discrete Representations via Constrained Clustering for Effective and Efficient Dense Retrieval
+](https://dl.acm.org/doi/10.1145/3488560.3498443) won **WSDM'22 Best Paper Award** . 
 * ***1.2022***, [Invited talk](https://samoa.dcs.gla.ac.uk/events/viewtalk.jsp?id=18021) by Glasgow IR Group titled "Effective and Efficient Dense Retrieval via Joint Optimization with Compact Index". 
 * ***9.2018 - 4.2019***, Internship, Momenta, Beijing, China.
 
@@ -35,7 +36,7 @@ Publications
 
 * Learning Discrete Representations via Constrained Clustering for Effective and Efficient Dense Retrieval. \
 ***Jingtao Zhan***, Jiaxin Mao, Yiqun Liu, Jiafeng Guo, Min Zhang and Shaoping Ma. \
-The 15th ACM International Conference on Web Search and Data Mining. **(WSDM 2022)**. [paper](https://arxiv.org/pdf/2110.05789.pdf). [code](https://github.com/jingtaozhan/RepCONC).
+The 15th ACM International Conference on Web Search and Data Mining. **(WSDM 2022 Best Paper Award)**. [paper](https://arxiv.org/pdf/2110.05789.pdf). [code](https://github.com/jingtaozhan/RepCONC).
 
 * Jointly Optimizing Query Encoder and Product Quantization to Improve Retrieval Performance. \
 ***Jingtao Zhan***, Jiaxin Mao, Yiqun Liu, Jiafeng Guo, Min Zhang and Shaoping Ma. \
