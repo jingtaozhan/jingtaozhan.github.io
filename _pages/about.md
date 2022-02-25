@@ -61,6 +61,7 @@ The Web Conference 2020. **(WWW 2020)**. [paper](https://dl.acm.org/doi/abs/10.1
 
 Honors and Awards
 ======
+* 2022, WSDM'22 Best Paper Award
 * 2021, Overall Excellence Scholarship (Second Prize), Tsinghua University. (Top 10%)
 * 2020, Outstanding Graduate of Beijing
 * 2020, Outstanding Graduate of Tsinghua University
