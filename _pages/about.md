@@ -30,6 +30,10 @@ Experiences
 Publications
 ======
 
+* Evaluating Extrapolation Performance of Dense Retrieval. \
+***Jingtao Zhan***, Xiaohui Xie, Jiaxin Mao, Yiqun Liu, Min Zhang and Shaoping Ma. \
+**(ArXiv)**. [paper](https://arxiv.org/pdf/2204.11447.pdf). 
+
 * Interpreting Dense Retrieval as Mixture of Topics. \
 ***Jingtao Zhan***, Jiaxin Mao, Yiqun Liu, Jiafeng Guo, Min Zhang and Shaoping Ma. \
 **(ArXiv)**. [paper](https://arxiv.org/abs/2111.13957). 
