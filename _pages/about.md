@@ -12,7 +12,7 @@ My name is Jingtao Zhan (詹靖涛, in Chinese). I am now a second year PhD stud
 
 My research lies in Information Retrieval and Web Search. I currently focus on Dense Retrieval with a wide interest in improving its effectiveness, efficiency, and interpretability.
 
-I also served as a reviewer and PC member for WSDM and CIKM.
+I also served as a reviewer and PC member for WSDM, CIKM, and COLING.
 
 Education
 ======
