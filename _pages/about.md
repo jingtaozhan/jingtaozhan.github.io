@@ -30,9 +30,9 @@ Experiences
 Publications
 ======
 
-* Evaluating Extrapolation Performance of Dense Retrieval. \
-***Jingtao Zhan***, Xiaohui Xie, Jiaxin Mao, Yiqun Liu, Min Zhang and Shaoping Ma. \
-**(ArXiv)**. [paper](https://arxiv.org/pdf/2204.11447.pdf). [code](https://github.com/jingtaozhan/extrapolate-eval).
+* Evaluating Interpolation and Extrapolation Performance of Neural Retrieval Models. \
+***Jingtao Zhan***, Xiaohui Xie, Jiaxin Mao, Yiqun Liu, Jiafeng Guo, Min Zhang and Shaoping Ma. \
+The 31th ACM International Conference on Information and Knowledge Management. **(CIKM 2022)**. [paper](https://arxiv.org/pdf/2204.11447.pdf). [code](https://github.com/jingtaozhan/extrapolate-eval).
 
 * Interpreting Dense Retrieval as Mixture of Topics. \
 ***Jingtao Zhan***, Jiaxin Mao, Yiqun Liu, Jiafeng Guo, Min Zhang and Shaoping Ma. \
