@@ -30,6 +30,10 @@ Experiences
 Publications
 ======
 
+* Disentangled Modeling of Domain and Relevance for Adaptable Dense Retrieval. \
+***Jingtao Zhan***, Qingyao Ai, Yiqun Liu, Jiaxin Mao, Xiaohui Xie, Min Zhang, and Shaoping Ma. \
+**(ArXiv)**. [paper](https://arxiv.org/pdf/2208.05753.pdf). [code](https://github.com/jingtaozhan/disentangled-retriever)
+
 * Evaluating Interpolation and Extrapolation Performance of Neural Retrieval Models. \
 ***Jingtao Zhan***, Xiaohui Xie, Jiaxin Mao, Yiqun Liu, Jiafeng Guo, Min Zhang and Shaoping Ma. \
 The 31th ACM International Conference on Information and Knowledge Management. **(CIKM 2022)**. [paper](https://arxiv.org/pdf/2204.11447.pdf). [code](https://github.com/jingtaozhan/extrapolate-eval).
