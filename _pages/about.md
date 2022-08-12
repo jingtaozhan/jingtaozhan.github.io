@@ -38,9 +38,9 @@ Publications
 ***Jingtao Zhan***, Xiaohui Xie, Jiaxin Mao, Yiqun Liu, Jiafeng Guo, Min Zhang and Shaoping Ma. \
 The 31th ACM International Conference on Information and Knowledge Management. **(CIKM 2022)**. [paper](https://arxiv.org/pdf/2204.11447.pdf). [code](https://github.com/jingtaozhan/extrapolate-eval).
 
-* Interpreting Dense Retrieval as Mixture of Topics. \
+<!-- * Interpreting Dense Retrieval as Mixture of Topics. \
 ***Jingtao Zhan***, Jiaxin Mao, Yiqun Liu, Jiafeng Guo, Min Zhang and Shaoping Ma. \
-**(ArXiv)**. [paper](https://arxiv.org/abs/2111.13957). 
+**(ArXiv)**. [paper](https://arxiv.org/abs/2111.13957).  -->
 
 * Learning Discrete Representations via Constrained Clustering for Effective and Efficient Dense Retrieval. \
 ***Jingtao Zhan***, Jiaxin Mao, Yiqun Liu, Jiafeng Guo, Min Zhang and Shaoping Ma. \
