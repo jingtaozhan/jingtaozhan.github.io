@@ -22,6 +22,8 @@ Education
 
 Experiences
 ======
+* ***10.2022***, invited by Amazon Alexa AI, I will give a talk about `Disentangled Modeling of Domain and Relevance for Adaptable Neural Retrieval'. 
+* ***9.2022***, invited by Alibaba, I gave a talk about `Disentangled Modeling of Domain and Relevance for Adaptable Neural Retrieval'. 
 * ***3.2022***, Talks invited by [BIT](https://cs.bit.edu.cn/szdw/jsml/js/wsl_20181009021916886608/index.htm), [Jina.ai](https://jina.ai/), and [Baidu](https://www.machinereading.ai/). 
 * ***2.2022***, Our paper [Learning Discrete Representations via Constrained Clustering for Effective and Efficient Dense Retrieval](https://dl.acm.org/doi/10.1145/3488560.3498443) won **WSDM'22 Best Paper Award** . 
 * ***1.2022***, [Invited talk](https://samoa.dcs.gla.ac.uk/events/viewtalk.jsp?id=18021) by Glasgow IR Group titled "Effective and Efficient Dense Retrieval via Joint Optimization with Compact Index". 
