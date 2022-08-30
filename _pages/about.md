@@ -28,11 +28,11 @@ Publications
 
 * Disentangled Modeling of Domain and Relevance for Adaptable Dense Retrieval. \
 ***Jingtao Zhan***, Qingyao Ai, Yiqun Liu, Jiaxin Mao, Xiaohui Xie, Min Zhang, and Shaoping Ma. \
-**(ArXiv)**. [paper](https://arxiv.org/pdf/2208.05753.pdf). [code](https://github.com/jingtaozhan/disentangled-retriever)
+**(ArXiv)**. [[paper]](https://arxiv.org/pdf/2208.05753.pdf) [[code]](https://github.com/jingtaozhan/disentangled-retriever)
 
 * Evaluating Interpolation and Extrapolation Performance of Neural Retrieval Models. \
 ***Jingtao Zhan***, Xiaohui Xie, Jiaxin Mao, Yiqun Liu, Jiafeng Guo, Min Zhang and Shaoping Ma. \
-The 31th ACM International Conference on Information and Knowledge Management. **(CIKM 2022)**. [paper](https://arxiv.org/pdf/2204.11447.pdf). [code](https://github.com/jingtaozhan/extrapolate-eval).
+The 31th ACM International Conference on Information and Knowledge Management. **(CIKM 2022)**. [[paper]](https://arxiv.org/pdf/2204.11447.pdf) [[code]](https://github.com/jingtaozhan/extrapolate-eval)
 
 <!-- * Interpreting Dense Retrieval as Mixture of Topics. \
 ***Jingtao Zhan***, Jiaxin Mao, Yiqun Liu, Jiafeng Guo, Min Zhang and Shaoping Ma. \
@@ -40,27 +40,27 @@ The 31th ACM International Conference on Information and Knowledge Management. *
 
 * Learning Discrete Representations via Constrained Clustering for Effective and Efficient Dense Retrieval. \
 ***Jingtao Zhan***, Jiaxin Mao, Yiqun Liu, Jiafeng Guo, Min Zhang and Shaoping Ma. \
-The 15th ACM International Conference on Web Search and Data Mining. **(WSDM 2022 Best Paper Award)**. [paper](https://arxiv.org/pdf/2110.05789.pdf). [code](https://github.com/jingtaozhan/RepCONC).
+The 15th ACM International Conference on Web Search and Data Mining. **(WSDM 2022 Best Paper Award)**. [[paper]](https://arxiv.org/pdf/2110.05789.pdf) [[code]](https://github.com/jingtaozhan/RepCONC)
 
 * Jointly Optimizing Query Encoder and Product Quantization to Improve Retrieval Performance. \
 ***Jingtao Zhan***, Jiaxin Mao, Yiqun Liu, Jiafeng Guo, Min Zhang and Shaoping Ma. \
-The 30th ACM International Conference on Information and Knowledge Management. **(CIKM 2021)**. [paper](https://arxiv.org/pdf/2108.00644.pdf). [code](https://github.com/jingtaozhan/JPQ).
+The 30th ACM International Conference on Information and Knowledge Management. **(CIKM 2021)**. [[paper]](https://arxiv.org/pdf/2108.00644.pdf) [[code]](https://github.com/jingtaozhan/JPQ)
 
 * Optimizing Dense Retrieval Model Training with Hard Negatives. \
 ***Jingtao Zhan***, Jiaxin Mao, Yiqun Liu, Jiafeng Guo, Min Zhang and Shaoping Ma. \
-The 44th International ACM SIGIR Conference on Research and Development in Information Retrieval. **(SIGIR 2021)**. [paper](https://arxiv.org/pdf/2104.08051.pdf). [code](https://github.com/jingtaozhan/DRhard).
+The 44th International ACM SIGIR Conference on Research and Development in Information Retrieval. **(SIGIR 2021)**. [[paper]](https://arxiv.org/pdf/2104.08051.pdf) [[code]](https://github.com/jingtaozhan/DRhard)
 
 * RepBERT: Contextualized Text Embeddings for First-Stage Retrieval. \
 ***Jingtao Zhan***, Jiaxin Mao, Yiqun Liu, Min Zhang, and Shaoping Ma. \
-**(ArXiv)**. [paper](https://arxiv.org/pdf/2006.15498.pdf). [code](https://github.com/jingtaozhan/RepBERT-Index).
+**(ArXiv)**. [[paper]](https://arxiv.org/pdf/2006.15498.pdf). [[code]](https://github.com/jingtaozhan/RepBERT-Index)
 
 * An Analysis of BERT in Document Ranking. \
 ***Jingtao Zhan***, Jiaxin Mao, Yiqun Liu, Min Zhang, and Shaoping Ma. \
-The 43rd International ACM SIGIR Conference on Research and Development in Information Retrieval. Short Paper. **(SIGIR 2020)**. [paper](http://www.thuir.cn/group/~YQLiu/publications/SIGIR2020Zhan.pdf). [code](https://github.com/jingtaozhan/bert-ranking-analysis).
+The 43rd International ACM SIGIR Conference on Research and Development in Information Retrieval. Short Paper. **(SIGIR 2020)**. [[paper]](http://www.thuir.cn/group/~YQLiu/publications/SIGIR2020Zhan.pdf) [[code]](https://github.com/jingtaozhan/bert-ranking-analysis)
 
 * Leveraging Passage-level Cumulative Gain for Document Ranking. \
 Zhijing Wu, Jiaxin Mao, Yiqun Liu, ***Jingtao Zhan***, Yukun Zheng, Min Zhang and Shaoping Ma. \
-The Web Conference 2020. **(WWW 2020)**. [paper](https://dl.acm.org/doi/abs/10.1145/3366423.3380305)
+The Web Conference 2020. **(WWW 2020)**. [[paper]](https://dl.acm.org/doi/abs/10.1145/3366423.3380305)
 
 
 Education
