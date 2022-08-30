@@ -8,26 +8,20 @@ redirect_from:
   - /about.html
 ---
 
-My name is Jingtao Zhan (詹靖涛, in Chinese). I am now a second year PhD student in [THUIR Lab](http://www.thuir.cn/), [Department of Computer Science and Technology](http://www.cs.tsinghua.edu.cn), Tsinghua University. My supervisors are Prof. Shaoping Ma and [Prof. Yiqun Liu](http://www.thuir.cn/group/~YQLiu/). 
+My name is Jingtao Zhan (詹靖涛, in Chinese). I am now a third year PhD student at Department of Computer Science and Technology, Tsinghua University. My supervisors are Prof. Shaoping Ma and [Prof. Yiqun Liu](http://www.thuir.cn/group/~YQLiu/). 
 
 My research lies in Information Retrieval and Web Search. I currently focus on Dense Retrieval with a wide interest in improving its effectiveness, efficiency, and interpretability.
 
 I also served as a reviewer and PC member for WSDM, CIKM, and COLING.
 
-Education
+News
 ======
-
-* ***2020-present***, Ph.D. student, [Department of Computer Science and Technology](http://www.cs.tsinghua.edu.cn), Tsinghua University.
-* ***2016-2020***, B.E., [Department of Electronic Engineering](https://www.ee.tsinghua.edu.cn/), Tsinghua University. 
-
-Experiences
-======
-* ***10.2022***, invited by Amazon Alexa AI, I will give a talk about `Disentangled Modeling of Domain and Relevance for Adaptable Neural Retrieval'. 
-* ***9.2022***, invited by Alibaba, I will give a talk about `Disentangled Modeling of Domain and Relevance for Adaptable Neural Retrieval'. 
-* ***3.2022***, Talks invited by [BIT](https://cs.bit.edu.cn/szdw/jsml/js/wsl_20181009021916886608/index.htm), [Jina.ai](https://jina.ai/), and [Baidu](https://www.machinereading.ai/). 
-* ***2.2022***, Our paper [Learning Discrete Representations via Constrained Clustering for Effective and Efficient Dense Retrieval](https://dl.acm.org/doi/10.1145/3488560.3498443) won **WSDM'22 Best Paper Award** . 
-* ***1.2022***, [Invited talk](https://samoa.dcs.gla.ac.uk/events/viewtalk.jsp?id=18021) by Glasgow IR Group titled "Effective and Efficient Dense Retrieval via Joint Optimization with Compact Index". 
-* ***9.2018 - 4.2019***, Internship, Momenta, Beijing, China.
+* ***10.2022***, I will give an invited talk to Amazon Alexa AI about "Disentangled Modeling of Domain and Relevance for Adaptable Neural Retrieval". [[paper]](https://arxiv.org/pdf/2208.05753.pdf) [[code]](https://github.com/jingtaozhan/disentangled-retriever)
+* ***09.2022***, I will give an invited talk to Alibaba about "Disentangled Modeling of Domain and Relevance for Adaptable Neural Retrieval". [[paper]](https://arxiv.org/pdf/2208.05753.pdf) [[code]](https://github.com/jingtaozhan/disentangled-retriever)
+* ***03.2022***, I gave invited talks to [BIT](https://cs.bit.edu.cn/szdw/jsml/js/wsl_20181009021916886608/index.htm), [Jina.ai](https://jina.ai/), and [Baidu](https://www.machinereading.ai/) about "Effective and Efficient Dense Retrieval via Joint Optimization with Compact Index". [[paper]](https://arxiv.org/pdf/2110.05789.pdf) [[code]](https://github.com/jingtaozhan/RepCONC)
+* ***02.2022***, Our paper "Learning Discrete Representations via Constrained Clustering for Effective and Efficient Dense Retrieval" won **WSDM'22 Best Paper Award** . [[paper]](https://arxiv.org/pdf/2110.05789.pdf) [[code]](https://github.com/jingtaozhan/RepCONC)
+* ***01.2022***, I gave an invited talk to Glasgow IR Group about "Effective and Efficient Dense Retrieval via Joint Optimization with Compact Index". [[paper]](https://arxiv.org/pdf/2110.05789.pdf) [[code]](https://github.com/jingtaozhan/RepCONC)
+<!-- * ***9.2018 - 4.2019***, Internship, Momenta, Beijing, China. -->
 
 Publications
 ======
@@ -68,6 +62,12 @@ The 43rd International ACM SIGIR Conference on Research and Development in Infor
 Zhijing Wu, Jiaxin Mao, Yiqun Liu, ***Jingtao Zhan***, Yukun Zheng, Min Zhang and Shaoping Ma. \
 The Web Conference 2020. **(WWW 2020)**. [paper](https://dl.acm.org/doi/abs/10.1145/3366423.3380305)
 
+
+Education
+======
+
+* ***2020-present***, Ph.D. student, Computer Science, Tsinghua University.
+* ***2016-2020***, B.E., Electronic Engineering, Tsinghua University. 
 
 Honors and Awards
 ======
