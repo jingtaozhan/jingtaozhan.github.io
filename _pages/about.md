@@ -12,11 +12,11 @@ My name is Jingtao Zhan (詹靖涛, in Chinese). I am now a third year PhD stude
 
 My research lies in Information Retrieval and Web Search. I currently focus on Dense Retrieval with a wide interest in improving its effectiveness, efficiency, and interpretability.
 
-I also served as a reviewer and PC member for WSDM, CIKM, and COLING.
+I also served as a reviewer and PC member for SIGIR, ACL, WSDM, CIKM, and COLING.
 
 News
 ======
-* ***10.2022***, I will give an invited talk to Amazon Alexa AI about "Disentangled Modeling of Domain and Relevance for Adaptable Neural Retrieval". [[paper]](https://arxiv.org/pdf/2208.05753.pdf) [[code]](https://github.com/jingtaozhan/disentangled-retriever)
+* ***10.2022***, I gave an invited talk to Amazon Alexa AI about "Disentangled Modeling of Domain and Relevance for Adaptable Neural Retrieval". [[paper]](https://arxiv.org/pdf/2208.05753.pdf) [[code]](https://github.com/jingtaozhan/disentangled-retriever)
 * ***09.2022***, I gave an invited talk to Alibaba (the DAMO NLP team and OpenSearch team) about "Disentangled Modeling of Domain and Relevance for Adaptable Neural Retrieval". [[paper]](https://arxiv.org/pdf/2208.05753.pdf) [[code]](https://github.com/jingtaozhan/disentangled-retriever)
 * ***03.2022***, I gave invited talks to [BIT](https://cs.bit.edu.cn/szdw/jsml/js/wsl_20181009021916886608/index.htm), [Jina.ai](https://jina.ai/), and [Baidu](https://www.machinereading.ai/) about "Effective and Efficient Dense Retrieval via Joint Optimization with Compact Index". [[paper]](https://arxiv.org/pdf/2110.05789.pdf) [[code]](https://github.com/jingtaozhan/RepCONC)
 * ***02.2022***, Our paper "Learning Discrete Representations via Constrained Clustering for Effective and Efficient Dense Retrieval" won **WSDM'22 Best Paper Award** . [[paper]](https://arxiv.org/pdf/2110.05789.pdf) [[code]](https://github.com/jingtaozhan/RepCONC)
@@ -71,6 +71,8 @@ Education
 
 Honors and Awards
 ======
+* 2022, Longfor Scholarship
+* 2022, Overall Excellence Scholarship (First Prize), Tsinghua University. (Top 5%)
 * 2022, WSDM'22 Best Paper Award
 * 2021, Overall Excellence Scholarship (Second Prize), Tsinghua University. (Top 10%)
 * 2020, Outstanding Graduate of Beijing
