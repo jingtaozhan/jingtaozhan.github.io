@@ -10,9 +10,11 @@ redirect_from:
 
 My name is Jingtao Zhan (詹靖涛, in Chinese). I am now a forth year PhD student at Department of Computer Science and Technology, Tsinghua University. My supervisors are Prof. Shaoping Ma and [Prof. Yiqun Liu](http://www.thuir.cn/group/~YQLiu/). 
 
-My research lies in optimizing retrieval systems and developing AIGC systems with user feedback.
+My research interests lie in building intelligent information systems, which primarily comprise two parts. 
+- One part of my work focuses on designing optimization algorithms to construct efficient information retrieval systems. This includes designing evaluation schemes, building training frameworks for models, and optimizing index structures. One of my works received the Best Paper Award at WSDM 2022. 
+- The other part of my work involves researching how to leverage user interaction logs in AIGC systems to enhance system performance. The motivation for this research stems from the fact that AIGC systems, like a black box, derive their performance mainly from the user's ability to "cast spells" (prompting). Therefore, I am very interested in how to utilize user interaction logs to unearth the capabilities of AIGC systems and, in turn, further improve system performance. One of my works in this area has been accepted by SIGIR 2024.
 
-I also served as a reviewer and PC member for SIGIR, ACL, WSDM, CIKM, and COLING.
+I also served as a reviewer and PC member for SIGIR, ACL, theWebConf, WSDM, CIKM, and COLING.
 
 
 Publications
