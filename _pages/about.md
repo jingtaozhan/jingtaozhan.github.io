@@ -8,23 +8,31 @@ redirect_from:
   - /about.html
 ---
 
-My name is Jingtao Zhan (詹靖涛, in Chinese). I am now a third year PhD student at Department of Computer Science and Technology, Tsinghua University. My supervisors are Prof. Shaoping Ma and [Prof. Yiqun Liu](http://www.thuir.cn/group/~YQLiu/). 
+My name is Jingtao Zhan (詹靖涛, in Chinese). I am now a forth year PhD student at Department of Computer Science and Technology, Tsinghua University. My supervisors are Prof. Shaoping Ma and [Prof. Yiqun Liu](http://www.thuir.cn/group/~YQLiu/). 
 
-My research lies in Information Retrieval and Web Search. I currently focus on Dense Retrieval with a wide interest in improving its effectiveness, efficiency, and interpretability.
+My research lies in optimizing retrieval systems and developing AIGC systems with user feedback.
 
 I also served as a reviewer and PC member for SIGIR, ACL, WSDM, CIKM, and COLING.
 
-News
-======
-* ***10.2022***, I gave an invited talk to Amazon Alexa AI about "Disentangled Modeling of Domain and Relevance for Adaptable Neural Retrieval". [[paper]](https://arxiv.org/pdf/2208.05753.pdf) [[code]](https://github.com/jingtaozhan/disentangled-retriever)
-* ***09.2022***, I gave an invited talk to Alibaba (the DAMO NLP team and OpenSearch team) about "Disentangled Modeling of Domain and Relevance for Adaptable Neural Retrieval". [[paper]](https://arxiv.org/pdf/2208.05753.pdf) [[code]](https://github.com/jingtaozhan/disentangled-retriever)
-* ***03.2022***, I gave invited talks to [BIT](https://cs.bit.edu.cn/szdw/jsml/js/wsl_20181009021916886608/index.htm), [Jina.ai](https://jina.ai/), and [Baidu](https://www.machinereading.ai/) about "Effective and Efficient Dense Retrieval via Joint Optimization with Compact Index". [[paper]](https://arxiv.org/pdf/2110.05789.pdf) [[code]](https://github.com/jingtaozhan/RepCONC)
-* ***02.2022***, Our paper "Learning Discrete Representations via Constrained Clustering for Effective and Efficient Dense Retrieval" won **WSDM'22 Best Paper Award** . [[paper]](https://arxiv.org/pdf/2110.05789.pdf) [[code]](https://github.com/jingtaozhan/RepCONC)
-* ***01.2022***, I gave an invited talk to Glasgow IR Group about "Effective and Efficient Dense Retrieval via Joint Optimization with Compact Index". [[paper]](https://arxiv.org/pdf/2110.05789.pdf) [[code]](https://github.com/jingtaozhan/RepCONC)
-<!-- * ***9.2018 - 4.2019***, Internship, Momenta, Beijing, China. -->
 
 Publications
 ======
+
+* Capability-aware Prompt Reformulation Learning for Text-to-Image Generation. \
+**Jingtao Zhan**, Qingyao Ai, Yiqun Liu, Jia Chen and Shaoping Ma. \
+The 47th International ACM SIGIR Conference on Research and Development in Information Retrieval. **(SIGIR 2024)**. [[paper](../files/zhan_sigir24_prompt.pdf)] [[code](https://github.com/jingtaozhan/PromptReformulate)]
+
+* Scaling Laws For Dense Retrieval. \
+**Jingtao Zhan\***, Yan Fang\*, Qingyao Ai, Jiaxin Mao, Weihang Su, Jia Chen and Yiqun Liu. (\* Equal contribution) \
+The 47th International ACM SIGIR Conference on Research and Development in Information Retrieval. **(SIGIR 2024)**.
+
+* Combining Multiple Supervision for Robust Zero-shot Dense Retrieval. \
+Yan Fang, Qingyao Ai, **Jingtao Zhan**, Yiqun Liu, Xiaolong Wu, Zhao Cao. \
+The 38th Annual AAAI Conference on Artificial Intelligence. **(AAAI 2024)**. [[paper](https://suffoquer-fang.github.io/files/AAAI24-CameraReady-10601.pdf)]
+
+* Constructing Tree-based Index for Efficient and Effective Dense Retrieval. \
+Haitao Li, Qingyao Ai, **Jingtao Zhan**, Jiaxin Mao, Yiqun Liu, Zheng Liu, and Zhao Cao. \
+The 46th International ACM SIGIR Conference on Research and Development in Information Retrieval. **(SIGIR 2023)**. [[paper]](https://dl.acm.org/doi/10.1145/3539618.3591651)
 
 * Disentangled Modeling of Domain and Relevance for Adaptable Dense Retrieval. \
 ***Jingtao Zhan***, Qingyao Ai, Yiqun Liu, Jiaxin Mao, Xiaohui Xie, Min Zhang, and Shaoping Ma. \
@@ -66,8 +74,19 @@ The Web Conference 2020. **(WWW 2020)**. [[paper]](https://dl.acm.org/doi/abs/10
 Education
 ======
 
+* ***2024.3-present***, visiting research scholar, UIUC.
 * ***2020-present***, Ph.D. student, Computer Science, Tsinghua University.
 * ***2016-2020***, B.E., Electronic Engineering, Tsinghua University. 
+
+News
+======
+* ***10.2022***, I gave an invited talk to Amazon Alexa AI about "Disentangled Modeling of Domain and Relevance for Adaptable Neural Retrieval". [[paper]](https://arxiv.org/pdf/2208.05753.pdf) [[code]](https://github.com/jingtaozhan/disentangled-retriever)
+* ***09.2022***, I gave an invited talk to Alibaba (the DAMO NLP team and OpenSearch team) about "Disentangled Modeling of Domain and Relevance for Adaptable Neural Retrieval". [[paper]](https://arxiv.org/pdf/2208.05753.pdf) [[code]](https://github.com/jingtaozhan/disentangled-retriever)
+* ***03.2022***, I gave invited talks to [BIT](https://cs.bit.edu.cn/szdw/jsml/js/wsl_20181009021916886608/index.htm), [Jina.ai](https://jina.ai/), and [Baidu](https://www.machinereading.ai/) about "Effective and Efficient Dense Retrieval via Joint Optimization with Compact Index". [[paper]](https://arxiv.org/pdf/2110.05789.pdf) [[code]](https://github.com/jingtaozhan/RepCONC)
+* ***02.2022***, Our paper "Learning Discrete Representations via Constrained Clustering for Effective and Efficient Dense Retrieval" won **WSDM'22 Best Paper Award** . [[paper]](https://arxiv.org/pdf/2110.05789.pdf) [[code]](https://github.com/jingtaozhan/RepCONC)
+* ***01.2022***, I gave an invited talk to Glasgow IR Group about "Effective and Efficient Dense Retrieval via Joint Optimization with Compact Index". [[paper]](https://arxiv.org/pdf/2110.05789.pdf) [[code]](https://github.com/jingtaozhan/RepCONC)
+<!-- * ***9.2018 - 4.2019***, Internship, Momenta, Beijing, China. -->
+
 
 Honors and Awards
 ======
