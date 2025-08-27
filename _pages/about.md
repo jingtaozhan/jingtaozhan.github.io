@@ -25,6 +25,8 @@ My name is Jingtao Zhan (詹靖涛, in Chinese). I am now a pre-tenure assistant
 
 # 🔥 Research Statement
 
+One of the key purposes of this personal website is to explain my research journey and interests. In the following paragraphs, I’ll begin by sharing the focus of my Ph.D. work, then describe how my understanding of AI research has evolved, and finally, outline my current research interests.
+
 During my PhD, my research primarily focused on the field of information retrieval, a domain with both deep academic value and significant industrial relevance. Search engines and recommender systems are typical applications of this area. Research in this direction not only enhances user satisfaction but also drives tangible business value. I have worked on building more effective retrieval models, improving their efficiency, and expanding the capabilities of retrieval systems. Some of my work has received notable recognition, including Best Paper Awards at two of the top conferences in the field. These were the first such honors awarded to researchers from Chinese institutions, and the impact of these contributions continues to resonate in the industry.
 
 **So, what am I currently interested in?**
@@ -46,7 +48,7 @@ Take Scaling Laws as an example. They've emerged as a cornerstone of the current
 
 **Join My Research Team**
 
-If you also believe in the possibility of a unified AI theory, and if you're not satisfied with incremental tweaks but aspire to do work that leaves a lasting impact, then I warmly welcome you to apply to join my research team. I recruit at least one PhD and several master students each year, and also offer positions for research interns. Let’s explore the frontier of intelligence together.
+If you, too, believe in the possibility of a unified theory of AI, and are not content with just incremental improvements but instead seek deep and influential breakthroughs, I warmly welcome you to apply to work with me—as a research intern, a Master’s student, or a Ph.D. student. I recruit at least one Ph.D. student and several Master’s students every year.
 
 # 📝 Publications 
 
@@ -90,18 +92,27 @@ If you also believe in the possibility of a unified AI theory, and if you're not
 
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-
+- 2025, Outstanding Graduate of CS Deparment, Tsinghua University
+- 2024, National Scholarship
+- 2024，SIGIR'24 Best Paper Award
+- 2022, Longfor Scholarship
+- 2022, Overall Excellence Scholarship (First Prize), Tsinghua University. (Top 5%)
+- 2022, WSDM'22 Best Paper Award
+- 2021, Overall Excellence Scholarship (Second Prize), Tsinghua University. (Top 10%)
+- 2020, Outstanding Graduate of Beijing
+- 2020, Outstanding Graduate of Tsinghua University
+- 2019, National Encouragement Scholarship
+- 2017, National Encouragement Scholarship
+ 
 # 📖 Educations
 - *2025.08 - now*, Tenure-track Assistant Professor, Shenzhen International Graduate School, Tsinghua University.
 - *2020.09 - 2025.06*, Ph.D. student, Department of Computer Science and Technology, Tsinghua University. 
 - *2024.03 - 2024.08*, Visiting Research Scholar, University of Illinois Urbana-Champaign.
 - *2016.09 - 2020.06*, B.S. student, Department of Electronic Engineering, Tsinghua University.
 
-# 💬 Invited Talks
+<!-- # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/) -->
 
 <!-- # 💻 Internships
 - *2019.05 - 2020.02*, [Lorem](https://github.com/), China. -->
