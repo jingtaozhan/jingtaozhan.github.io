@@ -94,7 +94,7 @@ If you, too, believe in the possibility of a unified theory of AI, and are not c
 # 🎖 Honors and Awards
 - 2025, Outstanding Graduate of CS Deparment, Tsinghua University
 - 2024, National Scholarship
-- 2024，SIGIR'24 Best Paper Award
+- 2024, SIGIR'24 Best Paper Award
 - 2022, Longfor Scholarship
 - 2022, Overall Excellence Scholarship (First Prize), Tsinghua University. (Top 5%)
 - 2022, WSDM'22 Best Paper Award
