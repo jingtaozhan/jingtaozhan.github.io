@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-My name is Jingtao Zhan (詹靖涛, in Chinese). I am now a Tenure-track Assistant Professor at Shenzhen International Graduate School, Tsinghua University. I lead **FAITH Lab** (**F**oundation of **AI** at **T**sing**h**ua). As the name suggests, our lab is dedicated to exploring the fundamental principles of artificial intelligence, aiming to uncover the underlying laws that govern intelligent systems.
+My name is Jingtao Zhan (詹靖涛, in Chinese). I am now a Tenure-track Assistant Professor at Shenzhen International Graduate School, Tsinghua University. I lead **FAITH Lab** (**F**oundation of **AI** Lab at **T**sing**h**ua). As the name suggests, our lab is dedicated to exploring the fundamental principles of artificial intelligence, aiming to uncover the underlying laws that govern intelligent systems.
 
 Before that, I obtained my Ph.D. degree from the Department of Computer Science and Technology, Tsinghua University, under the supervision of Prof. Shaoping Ma and Prof. Yiqun Liu. I received my B.E. degree from the Department of Electronic Engineering, Tsinghua University, in 2020.
 
