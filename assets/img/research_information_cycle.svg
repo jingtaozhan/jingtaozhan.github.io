@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 390" role="img" aria-labelledby="title description">
+  <title id="title">The information cycle of artificial intelligence</title>
+  <desc id="description">
+    People and the world generate data. Data is transformed into AI model capabilities. Models turn those capabilities into information and actions. Interaction and feedback create new data and support continued evolution.
+  </desc>
+
+  <defs>
+    <marker id="arrow" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="8" markerHeight="8" orient="auto-start-reverse">
+      <path d="M 0 0 L 10 5 L 0 10 z" fill="#7f3c8d" />
+    </marker>
+  </defs>
+
+  <rect x="1" y="1" width="1198" height="388" rx="22" fill="#ffffff" stroke="#e5e7eb" stroke-width="2" />
+
+  <g font-family="Arial, Helvetica, sans-serif" text-anchor="middle">
+    <rect x="40" y="80" width="220" height="104" rx="16" fill="#f7f0f8" stroke="#7f3c8d" stroke-width="2.5" />
+    <text x="150" y="124" fill="#25212a" font-size="24" font-weight="700">People &amp; World</text>
+    <text x="150" y="154" fill="#5f5965" font-size="16">needs and experience</text>
+
+    <rect x="345" y="80" width="170" height="104" rx="16" fill="#eef6fc" stroke="#4b82a8" stroke-width="2.5" />
+    <text x="430" y="124" fill="#25212a" font-size="24" font-weight="700">Data</text>
+    <text x="430" y="154" fill="#5f5965" font-size="16">observations and feedback</text>
+
+    <rect x="610" y="80" width="190" height="104" rx="16" fill="#eef7f1" stroke="#4c8362" stroke-width="2.5" />
+    <text x="705" y="124" fill="#25212a" font-size="24" font-weight="700">AI Model</text>
+    <text x="705" y="154" fill="#5f5965" font-size="16">knowledge and capabilities</text>
+
+    <rect x="895" y="80" width="265" height="104" rx="16" fill="#fff7e9" stroke="#b27a25" stroke-width="2.5" />
+    <text x="1027.5" y="124" fill="#25212a" font-size="24" font-weight="700">Information &amp; Action</text>
+    <text x="1027.5" y="154" fill="#5f5965" font-size="16">answers, decisions, and tools</text>
+
+    <path d="M 260 132 H 337" fill="none" stroke="#7f3c8d" stroke-width="3" marker-end="url(#arrow)" />
+    <text x="299" y="112" fill="#7f3c8d" font-size="15" font-weight="700">GENERATE</text>
+
+    <path d="M 515 132 H 602" fill="none" stroke="#7f3c8d" stroke-width="3" marker-end="url(#arrow)" />
+    <text x="558.5" y="105" fill="#7f3c8d" font-size="15" font-weight="700">BUILDING</text>
+    <text x="558.5" y="123" fill="#7f3c8d" font-size="15" font-weight="700">INTELLIGENCE</text>
+
+    <path d="M 800 132 H 887" fill="none" stroke="#7f3c8d" stroke-width="3" marker-end="url(#arrow)" />
+    <text x="843.5" y="105" fill="#7f3c8d" font-size="15" font-weight="700">USING</text>
+    <text x="843.5" y="123" fill="#7f3c8d" font-size="15" font-weight="700">INTELLIGENCE</text>
+
+    <path d="M 1027.5 184 V 292 H 150 V 192" fill="none" stroke="#7f3c8d" stroke-width="3" marker-end="url(#arrow)" />
+    <rect x="349" y="264" width="480" height="56" rx="28" fill="#f7f0f8" stroke="#d9c2df" stroke-width="1.5" />
+    <text x="589" y="287" fill="#7f3c8d" font-size="17" font-weight="700">EVOLVING INTELLIGENCE</text>
+    <text x="589" y="308" fill="#5f5965" font-size="15">interaction, feedback, and new data</text>
+  </g>
+</svg>
