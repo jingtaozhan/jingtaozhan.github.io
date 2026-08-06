@@ -1,7 +1,7 @@
 ---
 layout: default
 permalink: /blog/
-title: blog
+title: Blog
 nav: true
 nav_order: 1
 pagination:
@@ -108,6 +108,7 @@ pagination:
     {% else %}
       {% assign postlist = site.posts %}
     {% endif %}
+    {% assign postlist = postlist | where_exp: "post", "post.featured != true" %}
 
     {% for post in postlist %}
 
